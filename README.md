@@ -1,1 +1,1 @@
-# Metplotlibsubmit
+As a senior data analyst at Pymaceuticals, Inc., I am analyzing data from a study on 249 mice with squamous cell carcinoma (SCC) treated with various drugs, including Capomulin, over 45 days. My tasks include creating tables and figures for the technical report and summarizing the study's findings to compare Capomulin's effectiveness with other treatments.
